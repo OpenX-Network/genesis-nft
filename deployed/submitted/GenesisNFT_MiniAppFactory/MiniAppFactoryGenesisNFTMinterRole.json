@@ -1,0 +1,27 @@
+{
+  "type": "function",
+  "id": "MiniAppFactoryGenesisNFTMinterRole",
+  "batch": "GenesisNFT_MiniAppFactory",
+  "batchIndex": 0,
+  "functionName": "grantRole",
+  "functionArgs": [
+    "0xfdf81848136595c31bb5f76217767372bc4bf906663038eb38381131ea27ecba",
+    "0x27f7E4e1e10b163FcB20Cb2f3803c556bC7E0EBC"
+  ],
+  "to": "0x25e27C666F1E306B254d9cb3A15Bf23145E60706",
+  "value": "0",
+  "data": "0x2f2ff15dfdf81848136595c31bb5f76217767372bc4bf906663038eb38381131ea27ecba00000000000000000000000027f7e4e1e10b163fcb20cb2f3803c556bc7e0ebc",
+  "gas": "51297",
+  "from": "0x3e166454c7781d3fD4ceaB18055cad87136970Ea",
+  "transactionSettings": {
+    "chainId": 8453,
+    "nonce": "14",
+    "baseFee": "6000000",
+    "priorityFee": "10000"
+  },
+  "source": "/home/plopmenz/git/openxai/genesis-nft",
+  "submitted": {
+    "transactionHash": "0x4b063776fe623c19e6a8e3d3f6edabaed57127c975066748d51b66e80d40358b",
+    "date": "2026-07-08T12:37:18.414Z"
+  }
+}
