@@ -1,0 +1,24 @@
+{
+  "type": "function",
+  "id": "MemegenGenesisNFTMint",
+  "batch": "GenesisNFT_Memegen",
+  "batchIndex": 0,
+  "functionName": "mint",
+  "functionArgs": ["0x19aBE353b21A6e1B4857680A35295DbF3782e15a", "132"],
+  "to": "0x25e27C666F1E306B254d9cb3A15Bf23145E60706",
+  "value": "0",
+  "data": "0x40c10f1900000000000000000000000019abe353b21a6e1b4857680a35295dbf3782e15a0000000000000000000000000000000000000000000000000000000000000084",
+  "gas": "53628",
+  "from": "0x3e166454c7781d3fD4ceaB18055cad87136970Ea",
+  "transactionSettings": {
+    "chainId": 8453,
+    "nonce": "50",
+    "baseFee": "6000000",
+    "priorityFee": "1000"
+  },
+  "source": "/home/plopmenz/git/openxai/genesis-nft",
+  "submitted": {
+    "transactionHash": "0x05980ba836fb6161cd5da4f9f21224d5cf45f89f3d9ef5a91ca2d85f68b85959",
+    "date": "2026-09-14T14:56:34.043Z"
+  }
+}
